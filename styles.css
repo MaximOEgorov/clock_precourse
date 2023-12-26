@@ -18,16 +18,10 @@ button {
 .clockCase {
     display: flex;
     justify-content: center;
-    /*
-    ПОДКЛЮЧАЕМ ФЛЕКСЫ
-    ПО ЦЕНТРУ
-    */
 }
 
 
 .buttonCase {
     display: flex;
     justify-content: center;
-    /*ПОДКЛЮЧАЕМ ФЛЕКСЫ
-    ПО ЦЕНТРУ*/
 }
